@@ -1,9 +1,9 @@
 <h1 align="center" style="color:#e53935;">Dev Fullstack</h1>
 
 <p align="center">
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="60" alt="Angular" />
-  <img style="margin-left: 12px;" src="https://laravel.com/img/logomark.min.svg" width="60" alt="Laravel" />
-  <img style="margin-left: 12px;" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="70" alt="Docker" />
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="60" alt="Angular" />&nbsp;&nbsp;&nbsp;
+  <img src="https://laravel.com/img/logomark.min.svg" width="60" alt="Laravel" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="70" alt="Docker" />
 </p>
 
 ### 🧠 Sobre mim
