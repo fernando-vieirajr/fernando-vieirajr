@@ -6,11 +6,6 @@
   <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="70" alt="Docker" />
 </p>
 
-### 🧠 Sobre mim
-
-- 🎯 Estudante e Dev Fullstack em construção
-- 🚀 Sempre aprendendo e evoluindo!
-
 ---
 
 ### 🚀 Stack Principal
@@ -29,7 +24,3 @@
 - 📧 fl.vieirajr@gmail.com
 
 ---
-
-<p align="center" style="color:#e53935;">
-  Feito com ❤️ e muito café.
-</p>
