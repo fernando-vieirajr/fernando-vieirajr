@@ -1,0 +1,34 @@
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+<br>
+
+<table>
+  <tr>
+    <td>
+      <img
+        width="320"
+        src="https://github-readme-stats.shion.dev/api?username=fernando-vieirajr&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true"
+      />
+    </td>
+    <td>
+      <img
+        width="320"
+        src="https://streak-stats.demolab.com/?user=fernando-vieirajr&theme=codeSTACKr&hide_border=false"
+      />
+    </td>
+    <td>
+      <img
+        width="320"
+        src="https://github-readme-stats.shion.dev/api/top-langs/?username=fernando-vieirajr&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+      />
+    </td>
+  </tr>
+</table>
