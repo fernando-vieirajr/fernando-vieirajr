@@ -15,12 +15,6 @@
     <td>
       <img
         width="320"
-        src="https://github-readme-stats.shion.dev/api?username=fernando-vieirajr&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true"
-      />
-    </td>
-    <td>
-      <img
-        width="320"
         src="https://streak-stats.demolab.com/?user=fernando-vieirajr&theme=codeSTACKr&hide_border=false"
       />
     </td>
