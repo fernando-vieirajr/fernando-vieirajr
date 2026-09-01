@@ -5,5 +5,5 @@
 </picture>
 <hr>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=graphql,nodejs,js,angular"/>
+  <img src="https://skillicons.dev/icons?i=graphql,nodejs,nestjs,angular"/>
 </p>
