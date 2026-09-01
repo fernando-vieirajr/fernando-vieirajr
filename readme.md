@@ -10,6 +10,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,graphql,docker,nestjs,laravel,mysql,postgres,angular&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs,tailwind,graphql,postgres,nestjs,laravel,mysql,angular&theme=light" />
   </a>
 </p>
