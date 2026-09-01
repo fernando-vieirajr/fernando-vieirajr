@@ -1,7 +1,11 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernando-vieirajr&show_icons=true&theme=radical)
-
-<hr>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=graphql,nodejs,postgres,nestjs,angular&theme=dark" />
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=graphql,nodejs,nestjs,angular"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,mysql,mongodb,docker,py,react&theme=dark" />
+  </a>
 </p>
