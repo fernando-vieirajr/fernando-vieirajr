@@ -8,10 +8,6 @@
   </a>
 </p>
 
-<div align="center">
-  <img width="739" height="415" alt="image" src="https://github.com/user-attachments/assets/6f3b1ba6-ad54-4fd3-a109-0b8ef3782d35" />
-</div>
-
 ---
 
 #### `I like to work based on a few principles:`
