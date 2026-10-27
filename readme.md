@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <img width="100%" height="720" alt="image" src="https://github.com/user-attachments/assets/710769b2-1119-434f-842e-1b0f76abff3a" />
+  <img width="100%" height="720" alt="image" src="https://github.com/user-attachments/assets/e5a59002-b51d-4c29-a573-109423cb49bb" />
 </div>
 
 ---
@@ -35,7 +35,7 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center" valign="middle">
-      <img width="100%" src="https://github.com/user-attachments/assets/2981b920-0de0-4b8d-8ed4-cbb807ef2a2b" alt="About me" />
+      <img width="100%" src="https://github.com/user-attachments/assets/da1f2e6c-e450-42fb-a1ba-04b48c694694" alt="About me" />
     </td>
     <td width="50%" height="400" align="center" valign="middle">
       <p align="center">
