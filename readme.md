@@ -4,10 +4,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,php,nodejs,nestjs,laravel,vue,vite,angular,tailwind,graphql,mysql,postgres,git,github,sentry,docker,aws,azure&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,ts,php,nodejs,nestjs,laravel,vue,vite,angular,tailwind&theme=dark" />
+  </a>
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=graphql,mysql,postgres,git,github,sentry,docker,aws,azure&theme=dark" />
   </a>
 </p>
-
 ---
 
 #### `I like to work based on a few principles:`
