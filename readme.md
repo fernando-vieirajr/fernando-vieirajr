@@ -2,15 +2,18 @@
 
 #### `I'm a developer, and I know a bit about it:`
 
-<p align="center">
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,php,nodejs,nestjs,laravel,vue,vite,angular,tailwind&theme=dark" />
   </a>
-  <br />
+
+  <div style="height: 12px;"></div>
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=graphql,mysql,postgres,git,github,sentry,docker,aws,azure&theme=dark" />
   </a>
-</p>
+</div>
+
 ---
 
 #### `I like to work based on a few principles:`
