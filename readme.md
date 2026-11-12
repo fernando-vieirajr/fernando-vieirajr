@@ -40,4 +40,26 @@
     </td>
   </tr>
 </table>
+
+#### `One more thing:`
+
+<table width="100%">
+  <tr>
+    <td width="100%" height="180" align="center">
+      I believe development should be driven by innovation, curiosity and creativity. Our work is about more than keeping things running, and I don't think the process should be rigid or boring. I like keeping things light, having fun and bringing my personality into what I build.
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="100%" height="180" align="center" valign="middle">
+      <img
+        width="100%"
+        src="https://github.com/user-attachments/assets/39a41463-7686-4b4d-87fd-aa335eff1ad3"
+        alt="Doom"
+      />
+    </td>
+  </tr>
+</table>
 </div>
