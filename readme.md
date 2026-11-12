@@ -41,8 +41,6 @@
   </tr>
 </table>
 
-#### `One more thing:`
-
 <table width="100%">
   <tr>
     <td width="100%" height="180" align="center">
