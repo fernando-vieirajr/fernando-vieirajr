@@ -1,6 +1,7 @@
- <div align="center">
 
-#### `I'm a developer, and I know a bit about it:`
+<div align="center">
+
+#### `Sou desenvolvedor e entendo um pouco do assunto:`
 
 &nbsp;
 
@@ -20,32 +21,32 @@
 
 ---
 
-#### `I like to work based on a few principles:`
+#### `Gosto de trabalhar seguindo alguns princípios:`
 
 <table width="100%">
   <tr>
     <td width="33%" height="180" align="center">
-      Software should be predictable, observable and resilient.
+      O software deve ser previsível, observável e resiliente.
     </td>
     <td width="33%" height="180" align="center">
-      Complex problems should have simple solutions.
+      Problemas complexos devem ter soluções simples.
     </td>
     <td width="33%" height="180" align="center">
-      Readable code today is maintainable code tomorrow.
+      Código legível hoje é código sustentável amanhã.
     </td>
   </tr>
 </table>
 
-#### `Beyond the code:`
+#### `Além do código:`
 
 <table width="100%">
   <tr>
     <td width="50%" align="center" valign="middle">
-      <img width="100%" src="https://github.com/user-attachments/assets/da1f2e6c-e450-42fb-a1ba-04b48c694694" alt="About me" />
+      <img width="100%" src="https://github.com/user-attachments/assets/da1f2e6c-e450-42fb-a1ba-04b48c694694" alt="Sobre mim" />
     </td>
     <td width="50%" height="400" align="center" valign="middle">
       <p align="center">
-        I believe one of the best ways to learn is by building. I enjoy exploring new technologies, experimenting with different approaches and turning knowledge            into practice. <br> <br> I'm always looking for new challenges that help me grow, both as a developer and in the way I solve problems.
+        Acredito que uma das melhores formas de aprender é construindo. Gosto de explorar novas tecnologias, experimentar diferentes abordagens e transformar conhecimento em prática. <br> <br> Estou sempre em busca de novos desafios que me ajudem a evoluir, tanto como desenvolvedor quanto na maneira de resolver problemas.
       </p>
     </td>
   </tr>
@@ -54,7 +55,7 @@
 <table width="100%">
   <tr>
     <td width="100%" height="180" align="center">
-      I believe development should be driven by innovation, curiosity and creativity. Our work is about more than keeping things running, and I don't think the process should be rigid or boring. I like keeping things light, having fun and bringing my personality into what I build.
+      Acredito que o desenvolvimento deve ser movido por inovação, curiosidade e criatividade. Nosso trabalho vai muito além de simplesmente manter as coisas funcionando, e não acredito que o processo precise ser rígido ou entediante. Gosto de manter as coisas leves, me divertir e colocar um pouco da minha personalidade em tudo o que construo.
     </td>
   </tr>
 </table>
