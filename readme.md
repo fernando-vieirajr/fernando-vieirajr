@@ -4,13 +4,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,php,nodejs,nestjs,laravel,graphql,mysql,postgres,angular,react,tailwind&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,ts,php,nodejs,nestjs,laravel,graphql,angular,react,tailwind&theme=dark" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,sentry,docker,aws,azure&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,sentry,docker,aws,azure&theme=dark" />
   </a>
 </p>
 
