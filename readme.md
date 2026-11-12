@@ -2,17 +2,17 @@
 
 #### `I'm a developer, and I know a bit about it:`
 
-<div align="center">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,php,nodejs,nestjs,laravel,vue,vite,angular,tailwind&theme=dark" />
   </a>
+</p>
 
-  <div style="height: 12px;"></div>
-
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=graphql,mysql,postgres,git,github,sentry,docker,aws,azure&theme=dark" />
   </a>
-</div>
+</p>
 
 ---
 
