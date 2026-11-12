@@ -2,6 +2,8 @@
 
 #### `I'm a developer, and I know a bit about it:`
 
+&nbsp;
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,php,nodejs,nestjs,laravel,graphql,angular,react,tailwind&theme=dark" />
