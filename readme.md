@@ -4,14 +4,14 @@ Desenvolvimento de aplicações web escaláveis, resilientess e orientadas a boa
 
 ---
 
-### Stack Tecnológica
+### Stack
 
 [![Minhas Tecnologias](https://skillicons.dev/icons?i=js,ts,php,nodejs,nestjs,laravel,graphql,angular,react,tailwind&theme=dark)](https://skillicons.dev)  
 [![Infraestrutura e Dados](https://skillicons.dev/icons?i=mysql,postgres,git,github,sentry,docker,aws,azure&theme=dark)](https://skillicons.dev)
 
 ---
 
-### Princípios de Engenharia
+### Princípios
 
 * **Confiabilidade:** O software deve ser previsível, observável e resiliente em produção.
 * **Simplicidade:** Problemas complexos exigem soluções simples, diretas e pragmáticas.
